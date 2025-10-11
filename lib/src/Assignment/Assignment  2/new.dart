@@ -1,3 +1,3 @@
 void main(){
-  print('sdsdf');
+  print('We haven’t received Assignment 2 yet');
 }
