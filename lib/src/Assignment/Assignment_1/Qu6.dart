@@ -6,7 +6,6 @@ void main(){
   String ? s1 = stdin.readLineSync()!;
   String ? s2 = stdin.readLineSync()!;
 
-  /*String fullName = s1+ " " + s2;*/
   print("Combined name is: $s1 $s2");
 
 }
