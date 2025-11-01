@@ -3,7 +3,7 @@
 class Laptop {
   int id;
   String name;
-  int ram; // in GB
+  int ram; 
 
   Laptop(this.id, this.name, this.ram);
 
